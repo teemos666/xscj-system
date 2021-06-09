@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body,html {
+	height: 100%;
+}
+body {
+	font-family: 微软雅黑;
+	font-size: 18px;
+	line-height: 28px;
+	background-image:url(../img/login-bg.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+#wrap{
+	height:480px;
+	width:100%;
+}
+#head{
+	height:120px;
+	width:100%;
+	text-align:center;
+	color:white;
+	font-size:28px;
+}
+.tittle{
+	text-align:center;
+}
+#foot{
+	width:100%;
+	height:90px;
+	/*background-color:rgba(255,255,255,0.85);*/
+	text-align:center;
+	padding-top:30px;
+	color:white;
+}
+#wrap .logGet{
+	height:360px;
+	width:360px;
+	background-color:rgba(255,255,255,0.85);
+	top:20%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.logC input{
+	width:100%;
+	height:45px;
+	background-color:rgb(51,153,102);
+	border:none;
+	color:white;
+	font-size:18px;
+	cursor:pointer;
+}
+
+.logGet .logDtip .p1{
+	display:inline-block;
+	font-size:28px;
+	margin-top:30px;
+	width:86%;
+	text-align:center;
+}
+
+#wrap .logGet .logDtip{
+	width:86%;
+	border-bottom:1px solid #ee7700;
+	margin-bottom:60px;
+	margin-top:0px;
+	margin-right:auto;
+	margin-left:auto;
+}
+.logGet .lgD input {
+	width:100%;
+	height:42px;
+	text-indent: 2.5rem;
+	font-size:18px;
+}
+#wrap .logGet .lgD {
+	width:  86%;
+	position:  reLative;
+	margin-bottom:  30px;
+	margin-top:  30px;
+	margin-right:  auto;
+	margin-left:  auto;
+}
+#wrap .logGet .logC {
+	width:  86%;
+	margin-top:  0px;
+	margin-right:  auto;
+	margin-bottom:  0px;
+	margin-left:  auto;
+}
+.u_user{
+	width: 25px;
+	height: 25px;
+	background: url(../img/login-ico.png);
+	background-position:  -125px 0;
+	position: absolute;
+	margin: 10px 13px;
+}
+.us_uer{
+	width: 25px;
+	height: 25px;
+	background-image: url(../img/login-ico.png);
+	background-position: -125px -34px;
+	position: absolute;
+	margin: 10px 13px;
+}

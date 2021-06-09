@@ -1,0 +1,155 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body,html {
+	height: 100%;
+}
+body {
+	font-family: 微软雅黑;
+	font-size: 18px;
+	line-height: 28px;
+	color:rgb(0,0,0);
+	
+	background-repeat: repeat-x;
+}
+#box {
+	width: 95%;
+	height: 91%;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	padding:20px;
+	
+}
+
+#zp{
+	
+}
+#kecheng{
+	border:2px black solid;
+}
+#jishu{
+	text-align:right;
+}
+
+
+#main-title {
+	width: 80%;
+	height: 60px;
+	margin: 0px auto;
+}
+#title1 {
+	height: 40px;
+	line-height: 40px;
+	color:rgb(0,0,0);
+	font-weight: bold;
+	
+	border-bottom: solid 1px #116493;
+	margin-bottom: 10px;
+}
+#title1 li {
+	list-style-type: none;
+	width: 150px;
+	text-align: center;
+	float: left;
+	/*font-size: 18px;*/
+}
+#title2 {
+	height: 30px;
+	line-height: 30px;
+	color: #FFF;
+	font-weight: bold;
+	background-color: #024B78;
+	border-bottom: solid 1px #116493;
+	margin-bottom: 10px;
+}
+#title2 li {
+	list-style-type: none;
+	width: 100px;
+	text-align: center;
+	float: left;
+}
+.list1 {
+	height: auto;
+	width:100%;
+	overflow: hidden;
+	border-bottom: dashed 1px #00293C;
+	line-height: 30px;
+	clear: both;
+	/*font-size: 18px;*/
+}
+.list1 li {
+	list-style-type: none;
+	width: 150px;
+	text-align: center;
+	float: left;
+}
+.list2 {
+	height: 30px;
+	border-bottom: dashed 1px #00293C;
+	line-height: 30px;
+}
+.list2 li {
+	list-style-type: none;
+	width: 89px;
+	text-align: center;
+	float: left;
+}
+#menu{
+	text-align:right;
+	
+}
+a{
+	text-decoration:none;
+}
+button{
+	font-size:18px;
+}
+input{
+	font-size:18px;
+}
+#search{
+	text-align:center;
+}
+#box1{
+	text-align:center;
+	padding:20px;
+}
+#title0 {
+	height: 40px;
+	line-height: 40px;
+	color:rgb(0,0,0);
+	font-weight: bold;
+	width:750px;
+	border-bottom: solid 1px #116493;
+	margin-bottom: 10px;
+}
+#title0 li {
+	list-style-type: none;
+	width: 150px;
+	text-align: center;
+	float: left;
+	/*font-size: 18px;*/
+}
+.list0 {
+	height: auto;
+	width:750px;
+	overflow: hidden;
+	border-bottom: dashed 1px #00293C;
+	line-height: 30px;
+	clear: both;
+	text-align:center;
+	/*font-size: 18px;*/
+}
+.list0 li {
+	list-style-type: none;
+	width: 150px;
+	text-align: center;
+	float: left;
+}
+#box2{
+	width:800px;
+	margin:0 auto;
+}

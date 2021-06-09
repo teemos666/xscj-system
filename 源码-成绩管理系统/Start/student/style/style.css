@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body,html {
+	height: 100%;
+}
+body {
+	font-family: 微软雅黑;
+	font-size: 18px;
+	line-height: 28px;
+	color:rgb(0,0,0);
+	
+	background-repeat: repeat-x;
+}
+#box {
+	width: 1050px;
+	height: 90%;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	padding:20px;
+	/*border:2px solid black;*/
+}
+#jishu{
+	text-align:right;
+}
+/*-------------------------*/
+#title_r {
+	height: 40px;
+	line-height: 40px;
+	color:rgb(0,0,0);
+	font-weight: bold;
+	
+	border-bottom: solid 1px #116493;
+	margin-bottom: 10px;
+}
+#title_r li {
+	list-style-type: none;
+	width: 150px;
+	text-align: center;
+	float: left;
+	font-size: 18px;
+}
+.list_r {
+	height: auto;
+	width:1050px;
+	overflow: hidden;
+	border-bottom: dashed 1px #00293C;
+	line-height: 30px;
+	clear: both;
+	font-size: 18px;
+}
+.list_r li {
+	list-style-type: none;
+	width: 150px;
+	text-align: center;
+	float: left;
+}
+
+/*-------------------------*/
+#main-title {
+	width: 80%;
+	height: 60px;
+	margin: 0px auto;
+}
+#title1 {
+	height: 40px;
+	line-height: 40px;
+	color:rgb(0,0,0);
+	font-weight: bold;
+	
+	border-bottom: solid 1px #116493;
+	margin-bottom: 10px;
+}
+#title1 li {
+	list-style-type: none;
+	width: 150px;
+	text-align: center;
+	float: left;
+	font-size: 18px;
+}
+#title2 {
+	height: 30px;
+	line-height: 30px;
+	color: #FFF;
+	font-weight: bold;
+	background-color: #024B78;
+	border-bottom: solid 1px #116493;
+	margin-bottom: 10px;
+}
+#title2 li {
+	list-style-type: none;
+	width: 100px;
+	text-align: center;
+	float: left;
+}
+.list1 {
+	height: auto;
+	width:1050px;
+	overflow: hidden;
+	border-bottom: dashed 1px #00293C;
+	line-height: 30px;
+	clear: both;
+	font-size: 18px;
+}
+.list1 li {
+	list-style-type: none;
+	width: 150px;
+	text-align: center;
+	float: left;
+}
+.list2 {
+	height: 30px;
+	border-bottom: dashed 1px #00293C;
+	line-height: 30px;
+}
+.list2 li {
+	list-style-type: none;
+	width: 89px;
+	text-align: center;
+	float: left;
+}
+#menu{
+	text-align:right;
+	
+}
+#top1{
+	padding:20px;
+}
+a{
+	text-decoration:none;
+}
