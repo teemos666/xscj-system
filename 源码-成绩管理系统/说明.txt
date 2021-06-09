@@ -1,0 +1,2 @@
+marks.sql为数据库文件，可自行使用相关工具导入。
+使用前，请设置好Connections/login.php中的连接数据库的配置
