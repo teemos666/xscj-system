@@ -883,5 +883,5 @@ WHERE 学号='$num';
 
 可能还有各种细节的问题或逻辑的问题，请多多指教。
 
-GitHub链接：[https://github.com/teemo-s/xscj-system/](https://github.com/teemo-s/xscj-system/)
+GitHub链接：[https://github.com/teemos666/xscj-system/](https://github.com/teemo-s/xscj-system/)
 
